@@ -6,7 +6,7 @@ El objetivo del proyecto es identificar puntos claves que permitan optimizar la 
 
 Para lograr el objetivo se creó un dashboard interactivo y dinámico mediante la herramienta de Tableau. En el dashboard se incluyeron cinco visualizaciones para mostrar información, una gráfica de barras que representa la distribución de los empleados por género, un diagrama de árbol sobre el desempeño de los empleados, un gráfico de burbujas sobre las diversas fuentes de reclutamiento, una gráfica de pastel con la distribución de los empleados por departamento y una tabla que muestra el salario por departamento. Todas estas visualizaciones pueden filtrarse por género. 
 
-El dashboard se compartió en Tableau Public, en enlace es el siguiente:
+El dashboard se compartió en Tableau Public, el enlace para visualizarlo es el siguiente:
 
 https://public.tableau.com/app/profile/rocio.alatorre/viz/Caso_practico_17392229833320/Dashboard1
 
